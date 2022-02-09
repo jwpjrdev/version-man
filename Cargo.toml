@@ -1,5 +1,8 @@
 [package]
 name = "versionman"
+authors = ["Joshua Price <jwpjr567@gmail.com>"]
+description = "CLI for incrementing project versions"
+license = "MIT"
 version = "0.1.0"
 edition = "2021"
 
