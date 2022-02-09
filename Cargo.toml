@@ -7,7 +7,7 @@ homepage = "https://github.com/jwpjrdev/version-man"
 repository = "https://github.com/jwpjrdev/version-man"
 categories = ["command-line-utilities"]
 license = "MIT"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 
 [dependencies]
